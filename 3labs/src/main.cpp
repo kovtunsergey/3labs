@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "print_board.h"
+#include "board.h"
 #include "desc.h"
 
 int main(){
